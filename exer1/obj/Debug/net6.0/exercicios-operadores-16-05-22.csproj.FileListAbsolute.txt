@@ -1,0 +1,5 @@
+C:\projetos\exercicios-operadores-16-05-22\exercicios-operadores-16-05-22\obj\Debug\net6.0\exercicios-operadores-16-05-22.csproj.AssemblyReference.cache
+C:\projetos\exercicios-operadores-16-05-22\exercicios-operadores-16-05-22\obj\Debug\net6.0\exercicios-operadores-16-05-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\exercicios-operadores-16-05-22\exercicios-operadores-16-05-22\obj\Debug\net6.0\exercicios-operadores-16-05-22.AssemblyInfoInputs.cache
+C:\projetos\exercicios-operadores-16-05-22\exercicios-operadores-16-05-22\obj\Debug\net6.0\exercicios-operadores-16-05-22.AssemblyInfo.cs
+C:\projetos\exercicios-operadores-16-05-22\exercicios-operadores-16-05-22\obj\Debug\net6.0\exercicios-operadores-16-05-22.csproj.CoreCompileInputs.cache

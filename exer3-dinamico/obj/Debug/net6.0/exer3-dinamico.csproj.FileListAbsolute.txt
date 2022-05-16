@@ -1,0 +1,15 @@
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\bin\Debug\net6.0\exer3-dinamico.exe
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\bin\Debug\net6.0\exer3-dinamico.deps.json
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\bin\Debug\net6.0\exer3-dinamico.runtimeconfig.json
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\bin\Debug\net6.0\exer3-dinamico.dll
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\bin\Debug\net6.0\exer3-dinamico.pdb
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.csproj.AssemblyReference.cache
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.AssemblyInfoInputs.cache
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.AssemblyInfo.cs
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.csproj.CoreCompileInputs.cache
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.dll
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\refint\exer3-dinamico.dll
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.pdb
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\exer3-dinamico.genruntimeconfig.cache
+C:\projetos\exercicios-operadores-16-05-22\exer3-dinamico\obj\Debug\net6.0\ref\exer3-dinamico.dll
